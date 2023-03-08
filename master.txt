@@ -249,5 +249,7 @@ dimwishlist:item=2508948099&perks=2590710093,4049631843
 dimwishlist:item=2508948099&perks=2590710093,3708227201
 
 
-
+// Synchronic Roulette (pvp)
+//notes: IFrostBolt's video https://www.youtube.com/watch?v=m3pEpBw3SNo tags:pvp
+dimwishlist:item=811403305&perks=1645158859,1015611457
 
