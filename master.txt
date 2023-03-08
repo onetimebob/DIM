@@ -1,1 +1,243 @@
+title:Datto Neomuna
+description:Datto's Picks Neomuna
+
+// Synchronic Roulette (god-pve)
+//notes: MW Range or Stability + Range Perks, Arrowhead Break tags:god-pve
+dimwishlist:item=811403305&perks=1645158859,831391274
+dimwishlist:item=811403305&perks=972757866,831391274
+
+
+// Synchronic Roulette ()
+//notes: MW Range or Stability + Range Perks, Arrowhead Break
+dimwishlist:item=811403305&perks=1645158859,1015611457
+dimwishlist:item=811403305&perks=1645158859,831391274
+dimwishlist:item=811403305&perks=1645158859,691659142
+dimwishlist:item=811403305&perks=3619207468,1015611457
+dimwishlist:item=811403305&perks=3619207468,831391274
+dimwishlist:item=811403305&perks=3619207468,691659142
+dimwishlist:item=811403305&perks=968510818,1015611457
+dimwishlist:item=811403305&perks=968510818,831391274
+dimwishlist:item=811403305&perks=968510818,691659142
+dimwishlist:item=811403305&perks=972757866,1015611457
+dimwishlist:item=811403305&perks=972757866,831391274
+dimwishlist:item=811403305&perks=972757866,691659142
+
+
+// Iterative Loop (god-pve)
+//notes: MW Reload + Accelerated Coils or Enhanced Battery + Arrowhead Break tags:god-pve
+dimwishlist:item=1289796511&perks=1556840489,2173046394
+dimwishlist:item=1289796511&perks=671806388,2173046394
+dimwishlist:item=1289796511&perks=1645158859,2173046394
+
+
+// Iterative Loop ()
+//notes: MW Reload + Accelerated Coils or Enhanced Battery + Arrowhead Break
+dimwishlist:item=1289796511&perks=2450788523,3523296417
+dimwishlist:item=1289796511&perks=2450788523,11612903
+dimwishlist:item=1289796511&perks=1556840489,3523296417
+dimwishlist:item=1289796511&perks=1556840489,11612903
+dimwishlist:item=1289796511&perks=671806388,3523296417
+dimwishlist:item=1289796511&perks=671806388,11612903
+dimwishlist:item=1289796511&perks=1645158859,3523296417
+dimwishlist:item=1289796511&perks=1645158859,11612903
+
+
+// Dimensional Hypotrochoid (god-pve)
+//notes: MW Blast Radius + Blast Radius Perks tags:god-pve
+dimwishlist:item=1311684613&perks=968510818,4049631843
+dimwishlist:item=1311684613&perks=968510818,2396489472
+
+
+// Dimensional Hypotrochoid ()
+//notes: MW Blast Radius + Blast Radius Perks
+dimwishlist:item=1311684613&perks=3108830275,4049631843
+dimwishlist:item=1311684613&perks=3108830275,2396489472
+dimwishlist:item=1311684613&perks=3108830275,1546637391
+dimwishlist:item=1311684613&perks=2869569095,4049631843
+dimwishlist:item=1311684613&perks=2869569095,2396489472
+dimwishlist:item=1311684613&perks=2869569095,1546637391
+dimwishlist:item=1311684613&perks=1583705720,4049631843
+dimwishlist:item=1311684613&perks=1583705720,2396489472
+dimwishlist:item=1311684613&perks=1583705720,1546637391
+dimwishlist:item=1311684613&perks=968510818,4049631843
+dimwishlist:item=1311684613&perks=968510818,2396489472
+dimwishlist:item=1311684613&perks=968510818,1546637391
+
+
+// Round Robin (god-pve)
+//notes: MW Stability + Stability Perks tags:god-pve
+dimwishlist:item=2034215657&perks=3619207468,831391274
+
+
+// Round Robin ()
+//notes: MW Stability + Stability Perks
+dimwishlist:item=2034215657&perks=1820235745,2610012052
+dimwishlist:item=2034215657&perks=1820235745,1015611457
+dimwishlist:item=2034215657&perks=1820235745,3511092054
+dimwishlist:item=2034215657&perks=1820235745,47981717
+dimwishlist:item=2034215657&perks=968510818,2610012052
+dimwishlist:item=2034215657&perks=968510818,1015611457
+dimwishlist:item=2034215657&perks=968510818,3511092054
+dimwishlist:item=2034215657&perks=968510818,47981717
+dimwishlist:item=2034215657&perks=3619207468,2610012052
+dimwishlist:item=2034215657&perks=3619207468,1015611457
+dimwishlist:item=2034215657&perks=3619207468,3511092054
+dimwishlist:item=2034215657&perks=3619207468,47981717
+
+
+// Round Robin (pvp)
+//notes: MW Stability + Stability Perks tags:pvp
+dimwishlist:item=2034215657&perks=3619207468,1015611457
+
+
+// Circular Logic (god-pve)
+//notes: MW Reload + Stability or Reload Perks tags:god-pve
+dimwishlist:item=2187717691&perks=3619207468,831391274
+
+
+// Circular Logic ()
+//notes: MW Reload + Stability or Reload Perks
+dimwishlist:item=2187717691&perks=2779035018,831391274
+dimwishlist:item=2187717691&perks=2779035018,2610012052
+dimwishlist:item=2187717691&perks=2779035018,3523296417
+dimwishlist:item=2187717691&perks=2779035018,365154968
+dimwishlist:item=2187717691&perks=2779035018,1546637391
+dimwishlist:item=2187717691&perks=3619207468,831391274
+dimwishlist:item=2187717691&perks=3619207468,2610012052
+dimwishlist:item=2187717691&perks=3619207468,3523296417
+dimwishlist:item=2187717691&perks=3619207468,365154968
+dimwishlist:item=2187717691&perks=3619207468,1546637391
+dimwishlist:item=2187717691&perks=968510818,831391274
+dimwishlist:item=2187717691&perks=968510818,2610012052
+dimwishlist:item=2187717691&perks=968510818,3523296417
+dimwishlist:item=2187717691&perks=968510818,365154968
+dimwishlist:item=2187717691&perks=968510818,1546637391
+
+
+// Basso Ostinato (god-pve)
+//notes: MW Range + Range and Magazine Perks tags:god-pve
+dimwishlist:item=2573900604&perks=968510818,2360754333
+dimwishlist:item=2573900604&perks=968510818,2679249093
+
+
+// Basso Ostinato ()
+//notes: MW Range + Range and Magazine Perks
+dimwishlist:item=2573900604&perks=1556840489,2048641572
+dimwishlist:item=2573900604&perks=1556840489,2360754333
+dimwishlist:item=2573900604&perks=1556840489,2679249093
+dimwishlist:item=2573900604&perks=968510818,2048641572
+dimwishlist:item=2573900604&perks=968510818,2360754333
+dimwishlist:item=2573900604&perks=968510818,2679249093
+dimwishlist:item=2573900604&perks=1631667848,2048641572
+dimwishlist:item=2573900604&perks=1631667848,2360754333
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+
+
+// Phyllotactic Spiral (god-pve)
+//notes: MW Range or Reload tags:god-pve
+dimwishlist:item=3635821806&perks=3619207468,2173046394
+
+
+// Phyllotactic Spiral ()
+//notes: MW Range or Reload
+dimwishlist:item=3635821806&perks=671806388,4104185692
+dimwishlist:item=3635821806&perks=671806388,1015611457
+dimwishlist:item=3635821806&perks=671806388,2173046394
+
+
+// Volta Bracket (god-pve)
+//notes: MW Range + Range Perks tags:god-pve
+dimwishlist:item=3920310144&perks=3400784728,1771339417
+dimwishlist:item=3920310144&perks=968510818,1771339417
+
+
+// Volta Bracket ()
+//notes: MW Range + Range Perks
+dimwishlist:item=3920310144&perks=1820235745,831391274
+dimwishlist:item=3920310144&perks=3400784728,831391274
+dimwishlist:item=3920310144&perks=3619207468,831391274
+
+//
+//demonjo defiance weapons
+//
+
+title:demonjoe
+description:Defiance Weapons
+
+// Raconteur (pve)
+//notes: MW Draw Speed + Perks tags:pve
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=201365942,124408337
+dimwishlist:item=45643573&perks=201365942,2652708987
+dimwishlist:item=45643573&perks=3592538738,3365897133
+dimwishlist:item=45643573&perks=3592538738,124408337
+dimwishlist:item=45643573&perks=3592538738,2652708987
+
+
+// Regnant (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=268260372&perks=3525010810,3301904089,3300816228,3194351027
+
+
+// Regnant (pve)
+//notes: tags:pve
+dimwishlist:item=268260372&perks=3300816228,3194351027
+dimwishlist:item=268260372&perks=3300816228,2048641572
+dimwishlist:item=268260372&perks=3300816228,4049631843
+dimwishlist:item=268260372&perks=968510818,3194351027
+dimwishlist:item=268260372&perks=968510818,2048641572
+dimwishlist:item=268260372&perks=968510818,4049631843
+dimwishlist:item=268260372&perks=776531651,3194351027
+dimwishlist:item=268260372&perks=776531651,2048641572
+dimwishlist:item=268260372&perks=776531651,4049631843
+
+
+// Prodigal Return (pve)
+//notes: tags:pve
+dimwishlist:item=268260373&perks=2869569095,960810156
+dimwishlist:item=268260373&perks=2869569095,3523296417
+dimwishlist:item=268260373&perks=2869569095,2173046394
+dimwishlist:item=268260373&perks=2869569095,11612903
+dimwishlist:item=268260373&perks=1556840489,960810156
+dimwishlist:item=268260373&perks=1556840489,3523296417
+dimwishlist:item=268260373&perks=1556840489,2173046394
+dimwishlist:item=268260373&perks=1556840489,11612903
+dimwishlist:item=268260373&perks=968510818,960810156
+dimwishlist:item=268260373&perks=968510818,3523296417
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=968510818,11612903
+
+
+// Perpetualis (pve)
+//notes: tags:pve
+dimwishlist:item=392008588&perks=3619207468,831391274
+dimwishlist:item=392008588&perks=3619207468,3523296417
+dimwishlist:item=392008588&perks=3619207468,2610012052
+dimwishlist:item=392008588&perks=3619207468,365154968
+dimwishlist:item=392008588&perks=2450788523,831391274
+dimwishlist:item=392008588&perks=2450788523,3523296417
+dimwishlist:item=392008588&perks=2450788523,2610012052
+dimwishlist:item=392008588&perks=2450788523,365154968
+
+
+// Royal Executioner (pve)
+//notes: tags:pve
+dimwishlist:item=1720503118&perks=1556840489,1427256713
+dimwishlist:item=1720503118&perks=1556840489,4293542123
+dimwishlist:item=1720503118&perks=1556840489,4082225868
+dimwishlist:item=1720503118&perks=1556840489,2652708987
+dimwishlist:item=1720503118&perks=968510818,1427256713
+dimwishlist:item=1720503118&perks=968510818,4293542123
+dimwishlist:item=1720503118&perks=968510818,4082225868
+dimwishlist:item=1720503118&perks=968510818,2652708987
+
+
+// Caretaker (pve)
+//notes: tags:pve
+dimwishlist:item=2508948099&perks=2590710093,4293542123
+dimwishlist:item=2508948099&perks=2590710093,4049631843
+dimwishlist:item=2508948099&perks=2590710093,3708227201
+
+
+
 
