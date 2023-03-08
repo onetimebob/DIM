@@ -1,0 +1,78 @@
+title:demonjoe
+description:Defiance Weapons
+
+// Raconteur (pve)
+//notes: MW Draw Speed + Perks tags:pve
+dimwishlist:item=45643573&perks=201365942,3365897133
+dimwishlist:item=45643573&perks=201365942,124408337
+dimwishlist:item=45643573&perks=201365942,2652708987
+dimwishlist:item=45643573&perks=3592538738,3365897133
+dimwishlist:item=45643573&perks=3592538738,124408337
+dimwishlist:item=45643573&perks=3592538738,2652708987
+
+
+// Regnant (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=268260372&perks=3525010810,3301904089,3300816228,3194351027
+
+
+// Regnant (pve)
+//notes: tags:pve
+dimwishlist:item=268260372&perks=3300816228,3194351027
+dimwishlist:item=268260372&perks=3300816228,2048641572
+dimwishlist:item=268260372&perks=3300816228,4049631843
+dimwishlist:item=268260372&perks=968510818,3194351027
+dimwishlist:item=268260372&perks=968510818,2048641572
+dimwishlist:item=268260372&perks=968510818,4049631843
+dimwishlist:item=268260372&perks=776531651,3194351027
+dimwishlist:item=268260372&perks=776531651,2048641572
+dimwishlist:item=268260372&perks=776531651,4049631843
+
+
+// Prodigal Return (pve)
+//notes: tags:pve
+dimwishlist:item=268260373&perks=2869569095,960810156
+dimwishlist:item=268260373&perks=2869569095,3523296417
+dimwishlist:item=268260373&perks=2869569095,2173046394
+dimwishlist:item=268260373&perks=2869569095,11612903
+dimwishlist:item=268260373&perks=1556840489,960810156
+dimwishlist:item=268260373&perks=1556840489,3523296417
+dimwishlist:item=268260373&perks=1556840489,2173046394
+dimwishlist:item=268260373&perks=1556840489,11612903
+dimwishlist:item=268260373&perks=968510818,960810156
+dimwishlist:item=268260373&perks=968510818,3523296417
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=968510818,11612903
+
+
+// Perpetualis (pve)
+//notes: tags:pve
+dimwishlist:item=392008588&perks=3619207468,831391274
+dimwishlist:item=392008588&perks=3619207468,3523296417
+dimwishlist:item=392008588&perks=3619207468,2610012052
+dimwishlist:item=392008588&perks=3619207468,365154968
+dimwishlist:item=392008588&perks=2450788523,831391274
+dimwishlist:item=392008588&perks=2450788523,3523296417
+dimwishlist:item=392008588&perks=2450788523,2610012052
+dimwishlist:item=392008588&perks=2450788523,365154968
+
+
+// Royal Executioner (pve)
+//notes: tags:pve
+dimwishlist:item=1720503118&perks=1556840489,1427256713
+dimwishlist:item=1720503118&perks=1556840489,4293542123
+dimwishlist:item=1720503118&perks=1556840489,4082225868
+dimwishlist:item=1720503118&perks=1556840489,2652708987
+dimwishlist:item=1720503118&perks=968510818,1427256713
+dimwishlist:item=1720503118&perks=968510818,4293542123
+dimwishlist:item=1720503118&perks=968510818,4082225868
+dimwishlist:item=1720503118&perks=968510818,2652708987
+
+
+// Caretaker (pve)
+//notes: tags:pve
+dimwishlist:item=2508948099&perks=2590710093,4293542123
+dimwishlist:item=2508948099&perks=2590710093,4049631843
+dimwishlist:item=2508948099&perks=2590710093,3708227201
+
+
